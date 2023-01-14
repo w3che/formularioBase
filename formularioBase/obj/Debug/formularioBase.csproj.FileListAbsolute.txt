@@ -1,0 +1,11 @@
+C:\Users\JC\source\repos\formularioBase\formularioBase\bin\Debug\formularioBase.exe.config
+C:\Users\JC\source\repos\formularioBase\formularioBase\bin\Debug\formularioBase.exe
+C:\Users\JC\source\repos\formularioBase\formularioBase\bin\Debug\formularioBase.pdb
+C:\Users\JC\source\repos\formularioBase\formularioBase\obj\Debug\formularioBase.csproj.AssemblyReference.cache
+C:\Users\JC\source\repos\formularioBase\formularioBase\obj\Debug\formularioBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\JC\source\repos\formularioBase\formularioBase\obj\Debug\formularioBase.Properties.Resources.resources
+C:\Users\JC\source\repos\formularioBase\formularioBase\obj\Debug\formularioBase.csproj.GenerateResource.cache
+C:\Users\JC\source\repos\formularioBase\formularioBase\obj\Debug\formularioBase.csproj.CoreCompileInputs.cache
+C:\Users\JC\source\repos\formularioBase\formularioBase\obj\Debug\formularioBase.exe
+C:\Users\JC\source\repos\formularioBase\formularioBase\obj\Debug\formularioBase.pdb
+C:\Users\JC\source\repos\formularioBase\formularioBase\obj\Debug\formularioBase.Form1.resources

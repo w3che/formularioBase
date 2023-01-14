@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formularioBase", "formularioBase\formularioBase.csproj", "{4107DFBC-55BF-4445-9226-E0C093D7581C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4107DFBC-55BF-4445-9226-E0C093D7581C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4107DFBC-55BF-4445-9226-E0C093D7581C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4107DFBC-55BF-4445-9226-E0C093D7581C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4107DFBC-55BF-4445-9226-E0C093D7581C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCFE92AC-1464-4D0D-B5FA-006EFE7FDB3D}
+	EndGlobalSection
+EndGlobal
